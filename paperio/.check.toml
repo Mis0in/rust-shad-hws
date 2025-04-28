@@ -1,0 +1,13 @@
+[lint]
+package = "paperio-strategy"
+fmt = true
+clippy = true
+
+[[test.custom_hooks]]
+command = ["cargo", "xtask", "--no-logs", "challenge"]
+
+[grade]
+allowlist = [
+  "strategy/src",
+]
+

@@ -31,8 +31,7 @@
 - Опыт реализации механизма отправки/получения
 
 # Extra
-
-### [Парсер обратной польской нотации](polka/src/lib.rs)
-### [Парсер ini файлов](ini/src/lib.rs)
-### [Персистентный стек](pstack/src/lib.rs)
-### [Бот для игры paperio](paperio/strategy/src/lib.rs)
+ [Парсер обратной польской нотации](polka/src/lib.rs)
+ [Парсер ini файлов](ini/src/lib.rs)
+ [Персистентный стек](pstack/src/lib.rs)
+ [Бот для игры paperio](paperio/strategy/src/lib.rs)
